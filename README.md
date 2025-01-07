@@ -1,4 +1,4 @@
-# Mood-Swing-Melodies
+# Mood-based music player
 A mood-based music player is like having your own personal DJ that understands your emotions and tailors the music playlist accordingly. By utilizing computer vision technology, the music player analyzes your facial expressions captured through the computer camera to determine your emotional state in real-time. Whether you're feeling happy, sad, relaxed, or anything in between, the music player assesses your mood and selects music tracks that match your emotional vibe perfectly.
 
 Imagine starting your day with uplifting tunes if you wake up feeling happy and energized, or soothing melodies if you're feeling calm and relaxed. If you're experiencing a rough day and feeling sad or stressed, the music player might choose comforting or cathartic songs to help lift your spirits. Additionally, it could surprise you with unexpected tracks or genres to add an element of excitement and novelty to your listening experience.
